@@ -17,4 +17,4 @@
 > Query distinct rows from a table.
 
 - **SELECT c1, c2 FROm t ORDER BY c1 ASC [DESC];**
-Sort the result set in ascending or descending order.
+> Sort the result set in ascending or descending order.
