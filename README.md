@@ -22,5 +22,5 @@
 - **SELECT c1, aggregate(c2) FROM t GROUP BY c1;**
 > Group rows using an aggregate function.
 
-- **SELECT c1, aggregate(c2) FROM t GROUP BY c1 HAVING condition;
+- **SELECT c1, aggregate(c2) FROM t GROUP BY c1 HAVING condition;**
 > Filter groups using HAVING clause.
