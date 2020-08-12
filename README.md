@@ -15,3 +15,12 @@
 
 - **SELECT c1, c2 FROm t ORDER BY c1 ASC [DESC];**
 > Sort the result set in ascending or descending order.
+
+- **SELECT c1, c2 FROM t ORDER BY c1 LIMIT n OFFSET offset;**
+> Skip offset of rows and return the next n rows.
+
+- **SELECT c1, aggregate(c2) FROM t GROUP BY c1;**
+> Group rows using an aggregate function.
+
+- **SELECT c1, aggregate(c2) FROM t GROUP BY c1 HAVING condition;
+> Filter groups using HAVING clause.
