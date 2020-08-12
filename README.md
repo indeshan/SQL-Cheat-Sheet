@@ -1,5 +1,6 @@
 
-### QUERYING DATA FROM A TABLE :
+### QUERYING DATA FROM A TABLE : ###
+---
 
 - **SELECT c1, c2 FROM t;**
 > Query data in columns c1, c2 from a table t.
@@ -24,3 +25,9 @@
 
 - **SELECT c1, aggregate(c2) FROM t GROUP BY c1 HAVING condition;**
 > Filter groups using HAVING clause.
+
+
+
+
+
+[NEXT](https://github.com/indeshan/SQL-Cheat-Sheet/blob/master/QueryingFromMultipleTables.md)
