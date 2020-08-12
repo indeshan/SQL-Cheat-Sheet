@@ -30,4 +30,4 @@
 
 
 
-[NEXT](https://github.com/indeshan/SQL-Cheat-Sheet/blob/master/QueryingFromMultipleTables.md)
+[NEXT](https://indeshan.github.io/SQL-Cheat-Sheet/QueryingFromMultipleTables)
