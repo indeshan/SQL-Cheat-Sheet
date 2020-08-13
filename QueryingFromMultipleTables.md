@@ -22,4 +22,4 @@
 - **SELECT c1, c2 FROM t1 A INNER JOIN t2 B ON condition;**
 > Join t1 to itself using INNER JOIN clause.
 
-[PREV](https://indeshan.github.io/SQL-Cheat-Sheet/) [NEXT](https://indeshan.github.io/SQL-Cheat-Sheet/SQLOperators)
+[<<<PREV](https://indeshan.github.io/SQL-Cheat-Sheet/) [NEXT>>>](https://indeshan.github.io/SQL-Cheat-Sheet/SQLOperators)
