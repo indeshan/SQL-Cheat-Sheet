@@ -24,4 +24,4 @@
 
 
 
-[<<PREV](https://indeshan.github.io/SQL-Cheat-Sheet/QueryingFromMultipleTables) [NEXT>>](https://indeshan.github.io/SQL-Cheat-Sheet/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<<PREV](https://indeshan.github.io/SQL-Cheat-Sheet/QueryingFromMultipleTables) [NEXT>>](https://indeshan.github.io/SQL-Cheat-Sheet/)
