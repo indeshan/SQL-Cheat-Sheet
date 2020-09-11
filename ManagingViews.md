@@ -1,7 +1,7 @@
 ### MANAGING VIEWS :
 ---
 
-
+<br/>
 <br/>
 <br/>
 <br/>
