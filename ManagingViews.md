@@ -10,6 +10,8 @@
 > Create a temporary view.
 - **DROP VIEW view_name;**
 > Delete a view.
+
+
 <br/>
 <br/>
 <br/>
